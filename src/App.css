@@ -30,6 +30,9 @@ button:nth-last-child(1) {
 }
 
 form p{
+  position: relative;
+  left: 37%;
+  width: 25%;
   border: 2px black solid;
   padding: 10px;
   margin: 10px;
